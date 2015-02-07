@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jadwalku</string>
+
+    <string name="title_section1">Senin</string>
+    <string name="title_section2">Selasa</string>
+    <string name="title_section3">Rabu</string>
+    <string name="title_section4">Kamis</string>
+    <string name="title_section5">Jumat</string>
+    <string name="title_section6">Sabtu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
